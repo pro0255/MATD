@@ -135,10 +135,9 @@ pip-selfcheck.json
 !.vscode/launch.json
 !.vscode/extensions.json
 
-
-preprocessed
 stemmed
-data
+preprocessed
+
 
 # End of https://www.gitignore.io/api/python,visualstudiocode
 
