@@ -74,7 +74,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+#.ipynb_checkpoints
 
 # IPython
 profile_default/
@@ -137,6 +137,7 @@ pip-selfcheck.json
 
 stemmed
 preprocessed
+data
 
 
 # End of https://www.gitignore.io/api/python,visualstudiocode
